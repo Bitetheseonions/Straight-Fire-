@@ -1,5 +1,3 @@
 ﻿# Straight-Fire-
 
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+la di da di da di da di da
